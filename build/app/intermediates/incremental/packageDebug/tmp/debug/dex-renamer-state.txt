@@ -1,0 +1,4 @@
+#Sat Aug 22 23:43:51 MSK 2020
+base.0=C\:\\Users\\Faraon\\Desktop\\prjts\\ParseJSON\\parsing_json_flutter\\parsing_json_flutter\\cat_app_starter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

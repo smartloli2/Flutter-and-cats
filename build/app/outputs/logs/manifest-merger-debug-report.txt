@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\a2526918c51095989829cc8aa23dba4d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\6e27be6527a5463c1ff4a9b11a1a352b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\786d088886012e123cab7aff0d9fabd9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\fc45dcaa4fd9d02f4f64dcd703d1aa01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\ab55e43ee42e44a993cd6e313d10536a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2c3cd688efd2a51b5cbb460b01386da3\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\020b199b05455ae36cc2cd2bc1e6b93a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\eee48b0504070a19eb263debffeeefb1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1463ac07acde2d58eb062ff226fcdc28\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d7485ab8a4d710d74a3e2b26357652ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a2971ca2ff6298a7b5e045a65da0adf8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c4e6ad93db1799863a1cff40cb1dc9f\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\2474ab3178eb76c1f333dadd8437925a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2c3cd688efd2a51b5cbb460b01386da3\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2c3cd688efd2a51b5cbb460b01386da3\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c4e6ad93db1799863a1cff40cb1dc9f\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c4e6ad93db1799863a1cff40cb1dc9f\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2c3cd688efd2a51b5cbb460b01386da3\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:11:9-32
+	android:icon
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.raywenderlich.cat_app.MainActivity
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\a2526918c51095989829cc8aa23dba4d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\a2526918c51095989829cc8aa23dba4d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\6e27be6527a5463c1ff4a9b11a1a352b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\6e27be6527a5463c1ff4a9b11a1a352b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\786d088886012e123cab7aff0d9fabd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\786d088886012e123cab7aff0d9fabd9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\fc45dcaa4fd9d02f4f64dcd703d1aa01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\fc45dcaa4fd9d02f4f64dcd703d1aa01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\ab55e43ee42e44a993cd6e313d10536a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\ab55e43ee42e44a993cd6e313d10536a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2c3cd688efd2a51b5cbb460b01386da3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2c3cd688efd2a51b5cbb460b01386da3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\020b199b05455ae36cc2cd2bc1e6b93a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\020b199b05455ae36cc2cd2bc1e6b93a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\eee48b0504070a19eb263debffeeefb1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\eee48b0504070a19eb263debffeeefb1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1463ac07acde2d58eb062ff226fcdc28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\1463ac07acde2d58eb062ff226fcdc28\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d7485ab8a4d710d74a3e2b26357652ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d7485ab8a4d710d74a3e2b26357652ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a2971ca2ff6298a7b5e045a65da0adf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\a2971ca2ff6298a7b5e045a65da0adf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c4e6ad93db1799863a1cff40cb1dc9f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c4e6ad93db1799863a1cff40cb1dc9f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\2474ab3178eb76c1f333dadd8437925a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Faraon\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\2474ab3178eb76c1f333dadd8437925a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Faraon\Desktop\prjts\ParseJSON\parsing_json_flutter\parsing_json_flutter\cat_app_starter\android\app\src\debug\AndroidManifest.xml:6:22-64
